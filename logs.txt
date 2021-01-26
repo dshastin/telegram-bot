@@ -1,0 +1,158 @@
+DionisNN id 361046636 -- start session
+DionisNN -- move to categories
+DionisNN -- move to products
+DionisNN -- product info
+DionisNN -- select Шеф бургер Де Люкс
+DionisNN -- put one product
+DionisNN -- put one product
+DionisNN -- put one product
+DionisNN -- start over
+-- DionisNN - browse the cart
+-- DionisNN - clean the cart
+-- DionisNN - deleted 1 rows
+2020-11-11 00:00:57,799 - __main__ - INFO - DionisNN id 361046636 -- start session
+2020-11-11 00:00:59,343 - __main__ - INFO - DionisNN -- move to categories
+2020-11-11 00:01:00,411 - __main__ - INFO - DionisNN -- move to products
+2020-11-11 00:01:01,687 - __main__ - INFO - DionisNN -- product info
+2020-11-11 00:01:01,789 - __main__ - INFO - DionisNN -- select Чизбургер Де Люкс
+2020-11-23 16:30:07,387 - __main__ - INFO - DionisNN id 361046636 -- start session
+2020-11-23 16:30:09,024 - __main__ - INFO - DionisNN -- move to categories
+2020-11-23 16:30:10,561 - __main__ - INFO - DionisNN -- move to products
+2020-11-23 16:30:11,787 - __main__ - INFO - DionisNN -- product info
+2020-11-23 16:30:11,893 - __main__ - INFO - DionisNN -- select Чай Черный
+2020-11-23 16:30:13,222 - __main__ - INFO - DionisNN -- put one product
+2020-11-23 16:30:16,296 - __main__ - INFO - DionisNN -- start over
+2020-11-23 16:30:18,039 - __main__ - INFO - DionisNN - browse the cart
+2020-11-23 16:30:20,595 - __main__ - INFO - DionisNN - clean the cart
+2020-11-23 16:30:20,675 - __main__ - INFO - -- DionisNN - deleted 2 rows
+2020-11-23 16:31:03,413 - __main__ - INFO - KseniaTom id 123149845 -- start session
+2020-11-23 16:31:05,860 - __main__ - INFO - KseniaTom -- move to categories
+2020-11-23 16:31:09,437 - __main__ - INFO - KseniaTom -- move to products
+2020-11-23 16:31:14,523 - __main__ - INFO - KseniaTom -- product info
+2020-11-23 16:31:14,603 - __main__ - INFO - KseniaTom -- select Чизбургер Де Люкс
+2020-11-23 16:31:16,612 - __main__ - INFO - KseniaTom -- put one product
+2020-11-23 16:31:22,256 - __main__ - INFO - KseniaTom -- start over
+2020-11-23 16:31:23,575 - __main__ - INFO - KseniaTom -- move to categories
+2020-11-23 16:31:27,692 - __main__ - INFO - KseniaTom -- move to products
+2020-11-23 16:31:31,455 - __main__ - INFO - KseniaTom -- product info
+2020-11-23 16:31:31,605 - __main__ - INFO - KseniaTom -- select Кофе Капучино
+2020-11-23 16:31:34,531 - __main__ - INFO - KseniaTom -- put one product
+2020-11-23 16:31:38,929 - __main__ - INFO - KseniaTom -- start over
+2020-11-23 16:31:42,415 - __main__ - INFO - KseniaTom - browse the cart
+2020-12-01 21:36:08,247 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 21:36:19,969 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 21:37:26,057 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 21:37:45,776 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 21:41:29,882 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 21:43:08,823 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 21:44:44,712 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 21:44:55,622 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 21:45:03,214 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 21:45:24,956 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 21:45:30,908 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 21:57:28,473 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 22:01:18,630 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 22:01:42,910 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 22:02:10,622 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 22:04:32,559 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 22:04:44,211 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 22:05:15,112 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 22:05:34,670 - main - INFO - IvanTester -- put one product
+2020-12-01 22:05:34,686 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 22:06:08,149 - main - INFO - IvanTester -- put one product
+2020-12-01 22:06:08,149 - main - INFO - IvanTester -- put one product
+2020-12-01 22:06:08,149 - main - INFO - IvanTester -- put one product
+2020-12-01 22:06:08,149 - main - INFO - IvanTester -- put one product
+2020-12-01 22:06:08,149 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 22:06:25,937 - main - INFO - IvanTester -- put one product
+2020-12-01 22:06:25,952 - main - INFO - IvanTester -- put one product
+2020-12-01 22:06:25,952 - main - INFO - IvanTester -- put one product
+2020-12-01 22:06:25,952 - main - INFO - IvanTester -- put one product
+2020-12-01 22:06:25,952 - main - INFO - IvanTester -- put one product
+2020-12-01 22:06:25,952 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 22:07:44,562 - main - INFO - IvanTester -- put one product
+2020-12-01 22:07:44,562 - main - INFO - IvanTester -- put one product
+2020-12-01 22:07:44,562 - main - INFO - IvanTester -- put one product
+2020-12-01 22:07:44,562 - main - INFO - IvanTester -- put one product
+2020-12-01 22:07:44,562 - main - INFO - IvanTester -- put one product
+2020-12-01 22:07:44,562 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 22:07:56,566 - main - INFO - IvanTester -- put one product
+2020-12-01 22:07:56,566 - main - INFO - IvanTester -- put one product
+2020-12-01 22:07:56,566 - main - INFO - IvanTester -- put one product
+2020-12-01 22:07:56,566 - main - INFO - IvanTester -- put one product
+2020-12-01 22:07:56,566 - main - INFO - IvanTester -- put one product
+2020-12-01 22:07:56,581 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 22:11:04,378 - main - INFO - IvanTester -- put one product
+2020-12-01 22:11:04,394 - main - INFO - IvanTester -- put one product
+2020-12-01 22:11:04,394 - main - INFO - IvanTester -- put one product
+2020-12-01 22:11:04,394 - main - INFO - IvanTester -- put one product
+2020-12-01 22:11:04,394 - main - INFO - IvanTester -- put one product
+2020-12-01 22:11:04,394 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 22:11:43,810 - main - INFO - IvanTester -- put one product
+2020-12-01 22:11:43,810 - main - INFO - IvanTester -- put one product
+2020-12-01 22:11:43,810 - main - INFO - IvanTester -- put one product
+2020-12-01 22:11:43,810 - main - INFO - IvanTester -- put one product
+2020-12-01 22:11:43,810 - main - INFO - IvanTester -- put one product
+2020-12-01 22:11:43,810 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 22:15:58,205 - main - INFO - IvanTester -- put one product
+2020-12-01 22:15:58,205 - main - INFO - IvanTester -- put one product
+2020-12-01 22:15:58,205 - main - INFO - IvanTester -- put one product
+2020-12-01 22:15:58,205 - main - INFO - IvanTester -- put one product
+2020-12-01 22:15:58,205 - main - INFO - IvanTester -- put one product
+2020-12-01 22:15:58,220 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 22:16:07,416 - main - INFO - IvanTester -- put one product
+2020-12-01 22:16:07,416 - main - INFO - IvanTester -- put one product
+2020-12-01 22:16:07,416 - main - INFO - IvanTester -- put one product
+2020-12-01 22:16:07,416 - main - INFO - IvanTester -- put one product
+2020-12-01 22:16:07,416 - main - INFO - IvanTester -- put one product
+2020-12-01 22:16:07,431 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 22:16:22,886 - main - INFO - IvanTester -- put one product
+2020-12-01 22:16:22,886 - main - INFO - IvanTester -- put one product
+2020-12-01 22:16:22,886 - main - INFO - IvanTester -- put one product
+2020-12-01 22:16:22,886 - main - INFO - IvanTester -- put one product
+2020-12-01 22:16:22,901 - main - INFO - IvanTester -- put one product
+2020-12-01 22:16:22,901 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 22:17:02,762 - main - INFO - IvanTester -- put one product
+2020-12-01 22:17:02,762 - main - INFO - IvanTester -- put one product
+2020-12-01 22:17:02,762 - main - INFO - IvanTester -- put one product
+2020-12-01 22:17:02,762 - main - INFO - IvanTester -- put one product
+2020-12-01 22:17:02,762 - main - INFO - IvanTester -- put one product
+2020-12-01 22:17:02,778 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 22:17:10,886 - main - INFO - IvanTester -- put one product
+2020-12-01 22:17:10,902 - main - INFO - IvanTester -- put one product
+2020-12-01 22:17:10,902 - main - INFO - IvanTester -- put one product
+2020-12-01 22:17:10,902 - main - INFO - IvanTester -- put one product
+2020-12-01 22:17:10,902 - main - INFO - IvanTester -- put one product
+2020-12-01 22:17:10,918 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 22:18:17,192 - main - INFO - IvanTester -- put one product
+2020-12-01 22:18:17,208 - main - INFO - IvanTester -- put one product
+2020-12-01 22:18:17,208 - main - INFO - IvanTester -- put one product
+2020-12-01 22:18:17,208 - main - INFO - IvanTester -- put one product
+2020-12-01 22:18:17,208 - main - INFO - IvanTester -- put one product
+2020-12-01 22:18:17,208 - main - INFO - IvanTester - clean the cart
+2020-12-01 22:18:17,208 - main - INFO - -- IvanTester - deleted 3 rows
+2020-12-01 22:18:17,208 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 22:19:27,748 - main - INFO - IvanTester -- put one product
+2020-12-01 22:19:27,748 - main - INFO - IvanTester -- put one product
+2020-12-01 22:19:27,748 - main - INFO - IvanTester -- put one product
+2020-12-01 22:19:27,748 - main - INFO - IvanTester -- put one product
+2020-12-01 22:19:27,748 - main - INFO - IvanTester -- put one product
+2020-12-01 22:19:27,748 - main - INFO - IvanTester - clean the cart
+2020-12-01 22:19:27,748 - main - INFO - -- IvanTester - deleted 3 rows
+2020-12-01 22:19:27,748 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 22:19:40,386 - main - INFO - IvanTester -- put one product
+2020-12-01 22:19:40,386 - main - INFO - IvanTester -- put one product
+2020-12-01 22:19:40,386 - main - INFO - IvanTester -- put one product
+2020-12-01 22:19:40,386 - main - INFO - IvanTester -- put one product
+2020-12-01 22:19:40,386 - main - INFO - IvanTester -- put one product
+2020-12-01 22:19:40,386 - main - INFO - IvanTester - clean the cart
+2020-12-01 22:19:40,402 - main - INFO - -- IvanTester - deleted 3 rows
+2020-12-01 22:19:40,402 - main - INFO - IvanTester id 123 -- start session
+2020-12-01 22:21:00,990 - main - INFO - IvanTester -- put one product
+2020-12-01 22:21:00,990 - main - INFO - IvanTester -- put one product
+2020-12-01 22:21:00,990 - main - INFO - IvanTester -- put one product
+2020-12-01 22:21:00,990 - main - INFO - IvanTester -- put one product
+2020-12-01 22:21:00,990 - main - INFO - IvanTester -- put one product
+2020-12-01 22:21:00,990 - main - INFO - IvanTester - clean the cart
+2020-12-01 22:21:00,990 - main - INFO - -- IvanTester - deleted 3 rows
+2020-12-01 22:21:01,006 - main - INFO - IvanTester id 123 -- start session
